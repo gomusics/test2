@@ -20,7 +20,7 @@ public class MyFrametest1 {
 
 	public static void main(String[] args) {
 		MyFrame f = new MyFrame();
-
+		System.out.println("시험시험시험 중");
 	}
 
 }
